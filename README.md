@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**guusy0019/guusy0019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm guusy 👋
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guusy0019&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guusy0019&layout=compact&theme=dark)
+![Visitor Count](https://komarev.com/ghpvc/?username=guusy0019&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+![Snake](https://raw.githubusercontent.com/guusy/guusy/output/github-contribution-grid-snake-dark.svg)
+
+</div>
